@@ -1,4 +1,4 @@
-# CZ1003 - ICT-Mini-Project
+# CZ1003 - ICT_Mini_Project
 
 ## Title: Real-time Canteen Information System (NTU)
 
