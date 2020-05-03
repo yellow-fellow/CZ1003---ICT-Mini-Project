@@ -1,0 +1,281 @@
+{
+	"McDonald's": {
+		"Breakfast Menu": {
+			"Burgers": {
+				"Scrambled Egg Burger with Sausage": "$4.80",
+				"Scrambled Egg Burger with Sausage meal": "$6.30",
+				"Scrambled Egg Burger with Chicken Bacon": "$4.80",
+				"Scrambled Egg Burger with Chicken Bacon meal": "$6.30",
+				"Egg McMuffin": "$4.50",
+				"Egg McMuffin meal": "$5.90",
+				"Sausage McMuffin": "$3.80",
+				"Sausage McMuffin meal": "$5.40",
+				"Sausage McMuffin with Egg": "$4.70",
+				"Sausage McMuffin with Egg meal": "$6.30",
+				"Chicken Muffin": "$4.00",
+				"Chicken Muffin meal": "$5.60",
+				"Chicken Muffin with Egg": "$4.90",
+				"Chicken Muffin with Egg meal": "$6.50"
+			},
+			"Wraps": {
+				"Breakfast Wrap Sausage": "$5.20",
+				"Breakfast Wrap Sausage meal": "$6.90",
+				"Breakfast Wrap Chicken Ham": "$5.00",
+				"Breakfast Wrap Chicken Ham meal": "$6.70"
+			},
+			"Set": {
+				"Breakfast Deluxe": "$7.40",
+				"Breakfast Deluxe meal": "$9.10",
+				"Big Breakfast": "$6.10",
+				"Big Breakfast meal": "$7.60",
+				"Hotcakes with Sausage": "$5.90",
+				"Hotcakes with Sausage meal": "$7.40",
+				"Hotcakes": "$5.30",
+				"Hotcakes meal": "$6.90"
+			}
+		},
+			"Regular Menu": {
+				"Extra Value Meals": {
+					"Filet-O-Fish": "$5.00",
+					"McChicken": "$5.00",
+					"BBQ beef burger with egg": "$5.00"
+				},
+				"Chicken": {
+					"McSpicy - single": "$5.25",
+					"McSpicy - single meal": "$7.00",
+					"McSpicy - double": "$7.20",
+					"McSpicy - double meal": "$8.95",
+					"Buttermilk crispy chicken": "$6.95",
+					"Buttermilk crispy chicken meal": "8.95",
+					"McWings - 4pc": "$4.20",
+					"McWings - 4pc meal": "$6.10",
+					"Chicken nuggets - 6pc": "$4.60",
+					"Chicken nuggets - 6pc meal": "$6.10",
+					"Chicken nuggets - 9pc": "$6.20",
+					"Chicken nuggets - 9pc meal": "$7.95"
+				},
+				"Beef": {
+					"Classic Angus cheese burger": "$8.95",
+					"Classic Angus cheese burger meal": "$10.95",
+					"Double cheese burger": "$3.50",
+					"Double cheese burger meal": "$6.10",
+					"Big Mac": "$5.75",
+					"Big Mac meal": "$7.50",
+					"The original Angus": "$6.20",
+					"The original Angus meal": "$7.95"
+				},
+				"Fish": {
+					"Double Filet-O-Fish": "$5.40",
+					"Double Filet-O-Fish meal": "$7.35"
+				},
+				"Salads & Wraps": {
+					"Grilled chicken salad": "$5.80",
+					"Grilled chicken salad": "$7.55",
+					"Grilled chicken wrap": "$5.80",
+					"Grilled chicken wrap meal": "$7.55"
+				},
+				"Dessert": {
+					"McFlurry Oreo": "$2.70",
+					"Sundae": "$1.70",
+					"Vanilla Cone": "$0.80",
+					"Chococone": "$1.00"
+				}
+			}
+		},
+		"Subway": {
+			"Breakfast Menu": {
+				"6 inches": {
+					"Bacon, Egg & Cheese": "$3.50",
+					"Black Forrest Ham, Egg & Cheese": "$3.50",
+					"Egg & Cheese Omelette": "$3.50",
+					"Steak, Egg & Cheese": "$3.50"
+				},
+				"12 inches": {
+					"Bacon, Egg & Cheese": "$5.50",
+					"Black Forrest Ham, Egg & Cheese": "$5.50",
+					"Egg & Cheese Omelette": "$5.50",
+					"Steak, Egg & Cheese": "$5.50"
+				}
+			},
+			"Regular Menu": {
+				"Classics": {
+					"Veggie Delite(12inch)":"$5.00($8.80)",
+					"Classic Tuna(12inch)": "$5.90($9.70)",
+					"Cold Cut Trio(12inch)": "$5.70($9.50)",
+					"Chicken Ham(12inch)": "$5.70($9.50)",
+					"Egg Mayo(12inch)": "$5.70($9.50)",
+					"Spicy Italian(12inch)": "$6.90($10.40)"
+				},
+				"Signatures": {
+					"Turkey(12inch)": "$5.90($9.70)",
+					"Italian B.M.T(12inch)": "$6.90($11.00)",
+					"Roasted Chicken Breast": "$6.70($10.80)",
+					"Turkey & Chicken Ham": "$5.70($9.70)"
+				},
+				"Favourites": {
+					"Subway Club(12inch)": "$6.90($11.00)",
+					"Chicken Teriyaki(12inch)": "$6.90($10.80)",
+					"Subway Melt(12inch)": "$7.40($11.80)",
+					"Meatball Marinara Melt(12inch)": "$6.80($10.90)"
+				},
+				"Premium": {
+					"Veggie Patty(12inch)": "$7.40($11.80)",
+					"Steak and Cheese(12inch)": "$7.40($11.80)",
+					"Roast Beef(12inch)": "$7.60($12.00)",
+					"Chicken & Bacon Ranch Melt(12inch)": "$7.40($11.80)"
+				}
+			}
+		},
+		"Long John Silver": {
+			"Breakfast Menu": {
+				"Sandwiches": {
+					"Texas Chicken Double Toast": "$6.30",
+					"Chicken Sausage Double Toast": "$5.90",
+					"Double Turkey Bacon Double Toast": "$5.90",
+					"Fish Patty Double Toast": "$6.30",
+					"Turkey Bacon Club Double Toast": "$6.30"
+				},
+				"French Toast Platters/Porridge": {
+					"French Toast Platter with Texas Chicken and Turkey Bacon/no Turkey Bacon": "$7.90/$7.20",
+					"French Toast Platter with Chicken Sausage and Turkey Bacon/no Turkey Bacon": "$7.60/$6.90",
+					"French Toast Platter with Grilled Salmon": "$9.50",
+					"Chicken Porridge": "$4.30",
+					"Dory Porridge": "$4.30",
+					"Salmon Porridge": "$5.30"
+				}
+			},
+			"Regular Menu": {
+				"Signatures": {
+					"1pc Fish": "$5.00",
+					"2pc Chicken": "$5.00",
+					"Fish & Chicken": "$6.50",
+					"3pc Chicken": "$6.50",
+					"2pc Chicken & 2pc Shrimp": "$6.90",
+					"Fish & 2pc Shrimp": "$6.90",
+					"2pc Fish": "$7.50",
+					"2pc Dory": "$7.50",
+					"Chilli Crab Fish Rice Bowl": "$5.50",
+					"Salted Egg Chicken Rice Bowl": "$5.50"
+				},
+				"Rice & Dine": {
+					"Grilled Salmon": "$9.60",
+					"Grilled Cajun Chicken": "$8.60",
+					"Pacific Grilled Dory with Chili Crab Sauce)": "$8.90"
+				},
+				"Specials" :{
+					"6pc Shrimp":"$7.90",
+					"Salmon & Chicken":"$8.90",
+					"Salmon and 2pc Shrimp":"$8.90"
+				}
+			}
+		},
+		"Pizza Hut": {
+			"Breakfast Menu": {
+				"Pizzas": {
+					"Just Cheese": "From $12.80",
+					"Hawaiian": "From $10.80",
+					"Meat Galore": "From $10.80",
+					"Veggie Lover's": "From $10.80",
+					"Pepperoni": "From $10.80",
+					"BBQ Chicken": "From $10.80"
+				},
+				"Sides": {
+					"Garlic Bread": "$4.20",
+					"Honey Roasted Wings (4pcs)": "$4.20",
+					"Sweet n Spicy Drumlets (4pcs)": "$4.20"
+				},
+				"Pasta & Baked Rice": {
+					"Beef Lasagne": "$10.80",
+					"Curry Zazzle": "$10.80"
+				},
+				"Grab a Meal": {
+					"Meal A - 1 Pizza Slice and 1 Canned Drink": "$5.90",
+					"Meal C - 1 Pizza Slice, 2 Wings/Drumlets and 1 Canned Drink":"$7.90",
+					"Baked Pasta/Rice Meal - 1 Baked Pasta/Rice, 2 Wings/Drumlets and 1 Canned Drink":"$9.90"
+				}
+			},
+			"Regular Menu": {
+				"Classic Pizzas": {
+					"Hawaiian": "From $10.80",
+					"Chicken Supreme": "From $10.80",
+					"Super Supreme": "From $10.80",
+					"Pepperoni": "From $10.80",
+					"Veggie Lover's": "From $10.80",
+					"Curry Chicken": "From $10.80",
+					"Meat Galore": "From $10.80"
+				},
+				"Favourite Pizzas": {
+					"Chilli Seafood": "From $19.20",
+					"BBQ Chunky Chic": "From $9.80",
+					"Chic Ham N Shroom": "From $9.80",
+					"Cheese N Chic": "From $9.80",
+					"Simply Cheese": "From $9.80",
+					"Ocean Delight": "From $9.80",
+					"Very Beefy": "From $9.80"
+				},
+				"Speciality Pizzas": {
+					"Wild About Mushrooms": "From $11.20",
+					"BBQ Chicken": "From $11.20",
+					"The Four Cheese": "From $11.20",
+					"Seafood Deluxe": "From $11.20",
+					"Hawaiian Supreme": "From $11.20"
+				},
+				"Baked Rice": {
+					"Creamy Seafood": "$13.50",
+					"Chill Prawn": "$13.50",
+					"Curry Zazzle": "$13.50"
+				},
+				"Pasta": {
+					"Chicken Pomodoro": "$10.50",
+					"Spicy Chicken Pomodoro": "$10.50",
+					"Traditional Beef Bolognaise": "$11.50",
+					"Turkey Bacon Carbonara": "$12.50",
+					"Turkey Bacon Agolio Olio": "$11.20",
+					"Prawn Aglio Olio": "$11.50",
+					"Beef Lasagne": "$13.50",
+					"Chicken Royale Baked Pasta": "$13.50"
+				}
+			}
+		},
+		"KFC": {
+			"Breakfast Menu": {
+				"Porridge/Twisters": {
+					"Original Recipe Porridge": "$4.00",
+					"Original Recipe Twister": "$4.20",
+					"American Twister": "$4.65"
+				},
+				"Platters/Burgers": {
+					"Orignal Recipe Platter": "$5.00",
+					"Pancakes & Turkey Bacon Platter": "$5.00",
+					"Riser Burger": "$5.00",
+					"Brekkie Burger": "$5.00"
+				}
+			},
+			"Regular Menu": {
+				"Chicken": {
+					"2pc Meal": "$6.95",
+					"3pc Meal": "$8.85"
+				},
+				"Boxes": {
+					"Mac N Cheese Original Recipe": "$8.75",
+					"Zinger Box": "$7.75",
+					"BBQ Pockett Box": "$7.75",
+					"Tenders Box": "$6.95",
+					"Shrooms Box": "$6.95",
+					"Colonel Box": "$6.95"
+				},
+				"Burgers/Wraps": {
+					"Mac N Cheese Original Recipe": "$7.35",
+					"Zinger Meal": "$6.15",
+					"BBQ Pockett Meal": "$6.15"
+				},
+				"Super Value $5": {
+					"Famous Potato Bowl Meal": "$5.00",
+					"O.R. Rice Bowl Meal": "$5.00",
+					"Curry Rice Bowl Meal": "$5.00",
+					"Shrooms Burger Meal": "$5.00",
+					"Colonel Burger Meal": "$5.00"
+				}
+			}
+		}
+}

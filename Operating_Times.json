@@ -1,0 +1,27 @@
+{
+    "McDonald's": {
+        "Monday - Sunday": "07:00 - 23:59",
+        "Breakfast Menu": "07:00 - 10:59",
+        "Regular Menu": "11:00 - 23:59"
+    },
+    "Subway": {
+        "Monday - Sunday": "08:00 - 22:00",
+        "Breakfast Menu": "08:00 - 10:59",
+        "Regular Menu": "11:00 - 22:00"
+    },
+    "Long John Silver": {
+        "Monday - Sunday": "07:30 - 22:30",
+        "Breakfast Menu": "07:30 - 10:59",
+        "Regular Menu": "11:00 - 22:30"
+    },
+    "Pizza Hut": {
+        "Monday - Sunday": "08:00 - 20:00",
+        "Breakfast Menu": "08:00 - 10:59",
+        "Regular Menu": "11:00 - 20:00"
+    },
+    "KFC": {
+        "Monday - Sunday": "07:30 - 22:00",
+        "Breakfast Menu": "07:30 - 10:59",
+        "Regular Menu": "11:00 - 22:00"
+    }
+}
